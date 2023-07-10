@@ -1,0 +1,24 @@
+<cuerpo>
+  <div clase="tarjeta">
+  <img class="tamanio" src= https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/3855.png
+       <h1> nacional el mejor </h1>
+  <title>: nacional solo verde </title>
+  </div>
+  </cuerpo>
+</html>
+cuerpo{
+  color de fondo: verde
+}
+.clar{
+  pantalla:flexión:
+    justificar-contenido:flex-inicio;
+  borde: 1px alma negra;
+  relleno: 10;
+}
+h1{
+  tamaño de formato: 18px;
+}
+.tamanio{
+  ancho: 140px;
+  altura: 260px:
+}
